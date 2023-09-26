@@ -54,7 +54,7 @@ The editors requested that a new hala restaurant in Greenwich be added to the da
 3. Remove any establishments within the Dover Local Authority from the database, and check the number of documents to ensure they were deleted.
 4. Use *update_many* to convert *latitude* and *longitude* to decimal numbers & Use *update_many* to convert *RatingValue* to *integer* numbers
 
-## Part 3: Exploratory Analysis
+# Part 3: Exploratory Analysis
 Continue on the *NoSQL_analysis_starter.ipynb*
 *Note*: 
   - Use *count_documents* to display the number of documents contained in the result.
