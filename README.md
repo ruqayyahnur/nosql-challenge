@@ -6,7 +6,7 @@ This challenge focus on the UK Food Standards Agency. This agency evaluates diff
 ##### Resources provided:
 - establishments.json
 
-##Part 1: Database and Jupyter Notebook Set up
+# Part 1: Database and Jupyter Notebook Set up
 For this part, you will use the *NoSQL_setup_starter.ipynb*
   1. Import the data provided in the establishments.json file from your terminal. The database will be named uk_food and the collection establishments. *Copy the text you used to import your data from your Terminal to a markdown cell in your notebook*
   2. Within your notebook, *import* the libraries you need: *PyMongo and Pretty Print (pprint)*
@@ -17,7 +17,7 @@ For this part, you will use the *NoSQL_setup_starter.ipynb*
        - Find and display one document in the *establishments* collection using *find_one* and                 display with *pprint*
   5. Assign the establishments collection to a variable to prepare the collection for use
 
-##Part 2: Update the Database
+# Part 2: Update the Database
 For this part, use the *NoSQL_setup_starter.ipynb*
 The editors requested that a new hala restaurant in Greenwich be added to the database. Use the following information for the database:
      * { 
